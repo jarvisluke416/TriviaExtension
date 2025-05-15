@@ -146,7 +146,7 @@
   },
   {
     "id": 28,
-    "facts": "This gun, a British submachine gun, was designed for simple and rapid mass production during World War II. It was notable for its cheap construction, with most parts made from stamped steel and welded together. Despite its simplicity, the Sten was widely used by the British Army and even adopted by some German forces.",
+    "facts": "This gun, a British submachine gun, was designed for simple and rapid mass production during World War II. It was notable for its cheap construction, with most parts made from stamped steel and welded together. Despite its simplicity, this gun was widely used by the British Army and even adopted by some German forces.",
     "question": "Can you name this gun?",
     "correctAnswer": "Sten",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Pistolet_maszynowy_STEN%2C_Muzeum_Or%C5%82a_Bia%C5%82ego.jpg/330px-Pistolet_maszynowy_STEN%2C_Muzeum_Or%C5%82a_Bia%C5%82ego.jpg",

@@ -1,0 +1,16 @@
+{
+    "room1": {
+      "currentQuestionIndex": 0,
+      "timerStart": 0,
+      "questions": [
+        { "question": "What is the capital of France?", "correctAnswer": "Paris" },
+        { "question": "What is 2 + 2?", "correctAnswer": "4" },
+        { "question": "What is the largest ocean?", "correctAnswer": "Pacific" }
+      ],
+      "players": {
+        "player1": { "score": 0 },
+        "player2": { "score": 0 }
+      }
+    }
+  }
+  
