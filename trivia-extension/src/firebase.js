@@ -4,12 +4,12 @@ import { getDatabase } from "firebase/database"; // Import the Realtime Database
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyCT_LcF3bvXyqov3POs24uaD00XQTRW2bc",
-  authDomain: "triviaextension-df2e3.firebaseapp.com",
-  projectId: "triviaextension-df2e3",
-  storageBucket: "triviaextension-df2e3.firebasestorage.app",
-  messagingSenderId: "562654381363",
-  appId: "1:562654381363:web:ef2094fa3c8de36c59aa46"
+  apiKey: "yourapikey",
+  authDomain: "yourauthdomain",
+  projectId: "yourprojectid",
+  storageBucket: "yourstoragebucket",
+  messagingSenderId: "yourmessaginesenderid",
+  appId: "yourappid"
 };
 
 // Initialize Firebase
